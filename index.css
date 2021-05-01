@@ -54,6 +54,7 @@ button {
 }
 
 footer {
+    flex-direction: column;
     position: absolute;
     bottom: 0px;
     right: 0px;
@@ -65,6 +66,6 @@ footer {
     font-size: larger;
     color: #000;
     text-align: right;
-    padding: 10px 30px;
+    padding: 20px 40px;
     border-top-left-radius: 5px;
 }
